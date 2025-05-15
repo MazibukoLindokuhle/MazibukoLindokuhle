@@ -64,6 +64,6 @@
 
 ## ✨ Fun Fact
 
-> "I test my code *before* it's cool to break things.😅"
+> "It's actually cool to break things.😅"
 
 ---
